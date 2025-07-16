@@ -21,3 +21,4 @@ if (idade >= 18){
 else {
     console.log('Vá dormir, criança');
 }
+
